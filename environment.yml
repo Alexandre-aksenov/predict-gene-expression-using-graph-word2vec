@@ -1,0 +1,16 @@
+name: ML_graph1
+channels:
+  - stellargraph
+  - defaults
+dependencies:
+  - chardet=4.0.0
+  - ipykernel=6.25.0
+  - ipython=8.20.0
+  - matplotlib=3.8.0
+  - matplotlib-base=3.8.0
+  - matplotlib-inline=0.1.6
+  - networkx=3.1
+  - requests=2.31.0
+  - requests-oauthlib=1.3.0
+  - scikit-learn=1.3.0
+  - stellargraph=1.2.1
